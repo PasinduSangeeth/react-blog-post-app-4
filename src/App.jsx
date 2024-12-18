@@ -1,4 +1,4 @@
-import Router1 from "./components/Home/Home.jsx";
+import Router1 from "./router/Router1.jsx";
 
 const  App =()=> {
 

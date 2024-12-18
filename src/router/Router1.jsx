@@ -1,5 +1,5 @@
 import {Route, Routes} from "react-router-dom";
-import Home from "../components/Home/Home.jsx";
+import Home from "../components/home/Home.jsx";
 import Post from "../components/post/Post.jsx";
 
 const Router1 = () => {
